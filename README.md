@@ -62,4 +62,7 @@ The tracking code needs to be present on every page you want to track. It calls 
 
 - Page visits of every page
 - Visits by country
-- Visits for the last 10 days
+- Visits overall
+- Visits for each day of the last 10 days
+
+Can easily be extended by storing more information in blobs...
