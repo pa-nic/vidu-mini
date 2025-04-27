@@ -2,7 +2,9 @@
 
 <p align="center">Vidu - Mini</p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/94493f00-9e08-4364-837d-b7e968879f48"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/82d856cb-9078-438b-8744-439ba8393c62"></p>
+
+![example](https://github.com/user-attachments/assets/82d856cb-9078-438b-8744-439ba8393c62)
 
 
 ## About
