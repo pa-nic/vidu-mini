@@ -12,7 +12,7 @@ This is a (even more) minimal version of the former [Vidu](https://github.com/pa
 
 *Vidu* [see - /Esperanto/] consists of
 
-- A [Netlify Function](https://docs.netlify.com/functions/overview/) that is included as "tracker" in your web pages to collect (anonymized) user data and sending these in [Netlify Blobs](https://docs.netlify.com/blobs/overview/).
+- A [Netlify Function](https://docs.netlify.com/functions/overview/) that is included as "tracker" in your web pages to collect (anonymized) user data and saving these in [Netlify Blobs](https://docs.netlify.com/blobs/overview/).
 - A [SvelteKit](https://svelte.dev) web app which displays all the data in a simple yet beautiful dashboard.
 
 > [!TIP]
