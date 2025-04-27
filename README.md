@@ -4,9 +4,6 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/82d856cb-9078-438b-8744-439ba8393c62"></p>
 
-![example](https://github.com/user-attachments/assets/82d856cb-9078-438b-8744-439ba8393c62)
-
-
 ## About
 
 This is a (even more) minimal version of the former [Vidu](https://github.com/pa-nic/vidu) analytics project.
